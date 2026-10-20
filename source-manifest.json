@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "kind": "source with templates and synthetic artwork",
+  "contains_personal_photos": false,
+  "contains_live_configuration": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 480,
+      "sha256": "e20d8f960736d106428fb77d665e10dbde719ed107f95f923342ce8c116ef6d5"
+    },
+    {
+      "path": "docs/DISTRIBUTION.md",
+      "bytes": 1817,
+      "sha256": "4937459e76ba90f9bd83f9fa778bb093fb88b991899dd0aa0f4c051ccca159ce"
+    },
+    {
+      "path": "docs/licenses/Rainmeter-LICENSE.txt",
+      "bytes": 18431,
+      "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
+    },
+    {
+      "path": "docs/licenses/Reminisce-LICENSE.txt",
+      "bytes": 1067,
+      "sha256": "84b137ed32b489e7e5a0a01a07d03bfa833630fb1d8946ca00d4d7ded60d456c"
+    },
+    {
+      "path": "docs/licenses/Reminisce-README.md",
+      "bytes": 1861,
+      "sha256": "e4ea80503f4d0095518a51368319071560d0ba5b8f5c68678d2618d583a6d362"
+    },
+    {
+      "path": "docs/screenshots/appearance.png",
+      "bytes": 42596,
+      "sha256": "5c9253f8819ee61a988c356840e485086dc8b995876d2f8a8f0056c99d70289e"
+    },
+    {
+      "path": "docs/screenshots/controls.png",
+      "bytes": 40261,
+      "sha256": "86e3f6fec653ca125cf87c3dd400684819150cf55a80857371675c2bfd393401"
+    },
+    {
+      "path": "docs/screenshots/hover.png",
+      "bytes": 43464,
+      "sha256": "26bda90db570e23cdc9774dc29c171804e4282145c25d70e5dc14443002d6ed4"
+    },
+    {
+      "path": "docs/screenshots/settings.png",
+      "bytes": 37094,
+      "sha256": "6c6c0b43e2e923a4193d8f7ed47b6942563350422111bb3c2a8295ee1fb3df8f"
+    },
+    {
+      "path": "docs/screenshots/tools.png",
+      "bytes": 40386,
+      "sha256": "be24ac821c7f871fc5ce68075f909018d7d42761a0b622b0185426b4853fb24d"
+    },
+    {
+      "path": "docs/USER_GUIDE.md",
+      "bytes": 9236,
+      "sha256": "d605da2d8abdf9f3c7e17398fe51ec191c486e8dd446c3740ca0c4de40c100cc"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 4055,
+      "sha256": "5dfef4d5fa4e7f389ef2be567837f9e63cc68c9cbb9b30cbb76bc4f1ef3e2495"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7051,
+      "sha256": "0c857b67ff97bcff4bd40b4636b5c264030cb82b105e2b4f8c8c79bc62b58aa2"
+    },
+    {
+      "path": "runtime/Config/PhotoFrame.example.inc",
+      "bytes": 1078,
+      "sha256": "d46dee706e3056756ca72bf1ace51e608a206f31ca29eaae5716417bed5c9941"
+    },
+    {
+      "path": "runtime/Config/Rainmeter.example.ini",
+      "bytes": 762,
+      "sha256": "77f594186a8ee2532b68dd0ef71b744d359b5ba94f5ccc0f3054b0a97a01ee28"
+    },
+    {
+      "path": "runtime/Config/Skins/Reminisce/@Resources/AutoSize.lua",
+      "bytes": 10575,
+      "sha256": "a9c9bfc8f6d9b8b49d01c99d61998d3d25841f15ffe29ca0f1a7d652f2a221e2"
+    },
+    {
+      "path": "runtime/Config/Skins/Reminisce/@Resources/next.png",
+      "bytes": 343,
+      "sha256": "8f9352c546777ce652a065442b7c9151ba5502b2e0a7cda280b0e71a8d074f07"
+    },
+    {
+      "path": "runtime/Config/Skins/Reminisce/@Resources/prev.png",
+      "bytes": 345,
+      "sha256": "fa736bbf4ae2aa5c29d1ab67bbbaa9e4553a6d18832e8542448a8baa32a658b1"
+    },
+    {
+      "path": "runtime/Config/Skins/Reminisce/@Resources/view.png",
+      "bytes": 632,
+      "sha256": "a8c6601a97cce9feedfc2ca95dfa9bfa92bffe36eb41328fe5625176b64fd167"
+    },
+    {
+      "path": "runtime/Config/Skins/Reminisce/Reminisce.ini",
+      "bytes": 19230,
+      "sha256": "e0b9e62e8faa6990e21a4ed6e5159678e4d32b056e35b4117c418ebb35f700bf"
+    },
+    {
+      "path": "runtime/Photos/README.md",
+      "bytes": 640,
+      "sha256": "5e08b9eb90bcbf80c78b4b443e895e5bb0845d726e28879e12446916a724541f"
+    },
+    {
+      "path": "runtime/Photos/sample-landscape.png",
+      "bytes": 5979,
+      "sha256": "b01a5d81ddb0675ce08345e0c55aed0d27c0a3983d249fdc09833134f5f75137"
+    },
+    {
+      "path": "src/app.manifest",
+      "bytes": 982,
+      "sha256": "3e08b3c230e3b27e2d4aaeecd0fdae60a1c4e4565f1f03908db76ba9e4deca91"
+    },
+    {
+      "path": "src/Assets/DesktopAlbum.ico",
+      "bytes": 17607,
+      "sha256": "09fb357691cbd6a773b42ca5681e43981ad6c33899c5ca1561aa826ec66caed5"
+    },
+    {
+      "path": "src/Build.ps1",
+      "bytes": 1060,
+      "sha256": "dcd7d77c690b1ca1f9cc53be32f8af968564c5bb3128c95e3f2a0a914f0db6db"
+    },
+    {
+      "path": "src/GenerateScreenshots.ps1",
+      "bytes": 1222,
+      "sha256": "2ef530c1d12a721ff2b4792a6b4ec4474606cb21542c38c7be2dca1894390c6a"
+    },
+    {
+      "path": "src/LiveTests.cs",
+      "bytes": 4471,
+      "sha256": "7ef68cd1ff11ad94e5205eeeb301e3554e9afeaaeb65cc08e18ca5a8cd09ef51"
+    },
+    {
+      "path": "src/PortableTests.cs",
+      "bytes": 6336,
+      "sha256": "a47b96834ee6efad6c84ce7104198356e5b5ec5864edefb834f8b7a3f9d42b66"
+    },
+    {
+      "path": "src/Prepare.ps1",
+      "bytes": 2172,
+      "sha256": "7f5d313437e441c524546bb0d831ad6910ae5990de8b861c122892534dbe02fe"
+    },
+    {
+      "path": "src/Program.cs",
+      "bytes": 22768,
+      "sha256": "e1aeb0ed4c887c3d2659772f8ca4dde328c9410563f42aa06c202f3f8a023bda"
+    },
+    {
+      "path": "src/ReleaseScreenshots.cs",
+      "bytes": 3544,
+      "sha256": "7b530a60f26498c86641fb44781e127e28980813ced3326f5be6ac59ca3662f8"
+    },
+    {
+      "path": "src/SettingsForm.Design.cs",
+      "bytes": 22317,
+      "sha256": "1c6638b375832189aa9cfe46c44ea724b3e623662617073264d5bc71e8b3efae"
+    },
+    {
+      "path": "src/SettingsStore.cs",
+      "bytes": 11613,
+      "sha256": "9df36905ec1977ab27ea9e9e50b2a868af1b69750d9b8d6f6ccae5d871177362"
+    },
+    {
+      "path": "src/SettingsTests.cs",
+      "bytes": 7470,
+      "sha256": "100bbe6ad92275775b0beba5d62ddc24cc315f938dd0a7ff9aa2d8f0e16408a4"
+    },
+    {
+      "path": "src/Test.ps1",
+      "bytes": 1691,
+      "sha256": "e120690f06ab9d8ff9958727f1e8e1609760804c988551f42439cc1bf98f5fd4"
+    },
+    {
+      "path": "src/Theme.cs",
+      "bytes": 19622,
+      "sha256": "77999974071334282aeb7d707d175595706d4b6bc8cac8ea25a5fc640e76813b"
+    },
+    {
+      "path": "src/VisualTests.cs",
+      "bytes": 7909,
+      "sha256": "73b545060da77524f519f45b133fbd6aeeaabe11dc5f4437bc371b1e1792917c"
+    }
+  ]
+}

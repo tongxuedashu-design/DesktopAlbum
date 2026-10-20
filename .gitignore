@@ -1,0 +1,22 @@
+# Local builds, engine binaries, and test results
+/artifacts/
+/runtime/Engine/
+**/*.exe
+**/*.dll
+**/*.pdb
+**/*.lnk
+**/__pycache__/
+**/*.pyc
+
+# Personal settings and added photos
+/runtime/Config/PhotoFrame.inc
+/runtime/Config/Rainmeter.ini
+/runtime/Config/SettingsCenter.ini
+/runtime/Config/location.txt
+/runtime/Config/Backups/
+/runtime/Config/*.log
+/runtime/Config/*.data
+/runtime/Config/*.stats
+/runtime/Photos/*
+!/runtime/Photos/sample-landscape.png
+!/runtime/Photos/README.md
